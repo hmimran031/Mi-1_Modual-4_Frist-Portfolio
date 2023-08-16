@@ -78,9 +78,7 @@ section {
   border-left: 7px solid #ffa500;
 }
 #nill {
-  border-left: 7px solid;
-  border-image: linear-gradient(#fa6b58 100%, cyan 100%);
-  border-image-slice: 1;
+  border-left: 7px solid #fa6b58;
 }
 .experiences-content h2 {
   font-size: 40px;
